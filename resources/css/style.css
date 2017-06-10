@@ -29,3 +29,8 @@ p {
   font-size: 21px;
   color: grey;
 }
+
+.footer {
+  text-align: right;
+  color: grey;
+}
